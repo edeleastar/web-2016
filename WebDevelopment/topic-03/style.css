@@ -1,0 +1,30 @@
+p  {  
+  background-color: white;  
+  color: black;  
+}
+
+.withstyle  {  
+  background-color: olive;  
+  color: navy;  
+}
+
+.warn  {  
+  background-color: yellow;  
+  color: red;  
+}
+
+#first {
+  background-color: green;
+  color: red;
+}
+
+#maincontent {
+  border-style: solid;
+  border-width: 2px;
+}
+
+#footer {
+  border-style: dashed;
+  border-color: red;
+  border-width: 2px;
+}
